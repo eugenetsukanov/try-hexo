@@ -1,0 +1,24 @@
+{
+  "name": "try-hexo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "hexo-cli": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugenetsukanov/try-hexo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eugenetsukanov/try-hexo/issues"
+  },
+  "homepage": "https://github.com/eugenetsukanov/try-hexo#readme"
+}
